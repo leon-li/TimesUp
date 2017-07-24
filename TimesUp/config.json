@@ -3,7 +3,7 @@
     {
                 "title": "Time to change your standing/sitting position",
                 "description": "Changing your standing/sitting position every now and then is good for your health!",
-                "repeatInSeconds": 3
+                "repeatInSeconds": 1800
     }
     ]
 }
